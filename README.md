@@ -17,7 +17,7 @@ $ chicken-install sdl2  # takes 5min
 Compile and run:
 
 ```
-$ chicken -O5 bezier.scm
+$ chicken-csc -O5 bezier.scm
 $ ./bezier
 ```
 
